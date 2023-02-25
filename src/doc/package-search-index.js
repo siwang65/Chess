@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"chess"},{"l":"enums"},{"l":"pieces"},{"l":"shared"}];updateSearchResults();
